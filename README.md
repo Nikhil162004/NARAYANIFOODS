@@ -12,7 +12,6 @@ Narayani Foods is a web application built using PHP, MySQL, HTML, CSS and JavaSc
 - A responsive design for easy use on desktop and mobile.
 
 📂 Project Structure (Folders & Files)
-
 NARAYANIFOODS/
 │
 ├── database/
